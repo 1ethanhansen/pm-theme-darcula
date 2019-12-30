@@ -15,14 +15,14 @@
 	--theme7: #424445; /* light medium grey */
 
 	/* Alert & Status Colors */
-	--red: #cc9393;
+	--red: #d25252;
 	--red-light: #ec6446;
-	--yellow: #dfdf19;
-	--yellow-light: #e7d360;
-	--green: #a6cc93;
-	--green-light: #89bc70;
-	--blue: #bce8f1;
-	--blue-light: #93b9cc;
+	--yellow: #ffc66d;
+	--yellow-light: #efc090;
+	--green: #629755;
+	--green-light: #a5c25c;
+	--blue: #214283;
+	--blue-light: #bed6ff;
 	--white: #FFF;
 	--black: #000;
 }
